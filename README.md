@@ -5,7 +5,7 @@ This is the implementation of Knowledge-Based Systems 2021 paper : [Enhancing Gr
 
 ## Framework   
 An overview of EGNN:   
-<div align=center><img src='https://github.com/cherisyu/STNE/blob/master/data/stne.png' width="650" height="250" alt="图片加载失败时，显示这段字"/></div>         
+<div align=center><img src='https://github.com/yusonghust/EGNN-PyTorch/blob/master/Egnn.jpg' width="650" height="250" alt="图片加载失败时，显示这段字"/></div>         
 
 ## Requirements      
 python >= 3.6 + torch >= 1.7.0  + DGL >= 0.5.0   
